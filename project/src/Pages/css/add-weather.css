@@ -1,0 +1,90 @@
+.signin-link {
+    color: #db0a5b;
+    font-weight: 600;
+}
+
+.signin-link:hover {
+    color: #b90b4f;
+}
+
+.form-control {
+    margin-top: 13px;
+    height: 49px !important;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 1px solid #db0a5b;
+}
+
+.form-check-input {
+    border: 1px solid #f44336;
+}
+
+.form-check-input:checked {
+    background-color: #f44336;
+    border-color: #f44336;
+}
+
+.form-check-input:focus {
+    border-color: #e10a5b;
+    outline: 0;
+    box-shadow: none;
+}
+
+.button {
+    height: 40px;
+    border-radius: 4px;
+}
+
+.button2 {
+    height: 40px;
+    border-radius: 4px;
+    background-color: #00b2ff;
+    border-color: #00b2ff;
+    color: white;
+}
+
+.button2:hover {
+    background-color: #00b2ff;
+    border-color: #00b2ff;
+    color: white;
+}
+
+.form-box {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.form-box-b {
+    align-content: center;
+    padding-right: 30rem;
+    padding-left: 30rem;
+}
+
+.f-box {
+    width: 90%;
+}
+
+.icon-p {
+    margin-top: 5%;
+    padding-left: 2%;
+    font-size: 15px;
+    font-weight: bold;
+    color: #99a3a4;
+}
+
+@media only screen and (max-width: 800px) {
+    .form-box-b {
+        align-content: center;
+        padding-right: 0rem;
+        padding-left: 0rem;
+    }
+
+    .form-box {
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 5%;
+    }
+}

@@ -1,0 +1,47 @@
+.image-box {
+    margin-top: 2%;
+}
+
+.card-img {
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2018/10/field-fog-trees-blue-weather-cold-4k_1540135103.jpg");
+    background-size: cover;
+    width: 90%;
+    height: 600px;
+    border-radius: 30px;
+    box-shadow: 0px 8px 16px 4px #1d3037;
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 800px) {
+    .card-img {
+        background-image: url("https://free4kwallpapers.com/uploads/wallpaper/not-the-best-weather-but-no-less-breathtakingpalouse-falls-wa-wallpaper-1024x768-wallpaper.jpg");
+        background-size: cover;
+        width: 90%;
+        height: 600px;
+        border-radius: 30px;
+        box-shadow: 0px 8px 16px 4px #212f3c;
+        margin-bottom: 50px;
+    }
+
+    .card-box {
+        padding-top: 5%;
+        font-size: 50px;
+        color: white;
+    }
+}
+
+.card-box {
+    padding-top: 16%;
+    padding-left: 40%;
+    color: white;
+    font-size: 40px;
+    line-height: 24px;
+}
+
+.time {
+    font-size: 25px;
+}
+
+.logo3 {
+    font-size: 100px;
+}

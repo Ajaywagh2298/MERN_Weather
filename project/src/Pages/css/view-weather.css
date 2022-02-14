@@ -1,0 +1,65 @@
+.table-box {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.t-box {
+    color: white;
+}
+
+.t-body {
+    text-align: center;
+}
+
+.table-header {
+    font-size: 20px;
+}
+
+.t-tr {
+    font-size: 18px;
+}
+
+.sun {
+    color: #f7dc6f;
+    font-size: 25px;
+}
+
+.snow {
+    color: #85c1e9;
+    font-size: 25px;
+}
+
+.cloud {
+    color: #f4f6f6;
+    font-size: 25px;
+}
+
+.search-btn {
+    width: 50px;
+    height: 40px;
+    margin-top: 17px;
+    padding-left: 1%;
+    border-radius: 50px;
+}
+
+.search-btn2 {
+    border-radius: 100px;
+}
+
+.input-box {
+    padding-left: 60%;
+    padding-bottom: 2%;
+}
+
+.form-container {
+    border-radius: 100px;
+    outline: none;
+}
+
+.filter {
+    color: white;
+    font-size: 30px;
+    margin-right: 2%;
+    margin-top: 2%;
+}

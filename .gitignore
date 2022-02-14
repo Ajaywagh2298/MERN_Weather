@@ -1,0 +1,3 @@
+# Project exclude paths
+/project/node_modules/
+/weather/node_modules/

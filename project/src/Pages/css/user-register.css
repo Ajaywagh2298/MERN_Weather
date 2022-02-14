@@ -1,0 +1,233 @@
+.register-box h1 {
+    color: rgba(255, 255, 255, 1);
+    font-size: 36px;
+}
+
+.divider2 {
+    border: 1px solid #fdfefe;
+    margin: 5%;
+    margin-bottom: 10%;
+}
+
+.register-box {
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background: none;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid #fdfefe;
+}
+
+.register-box input[type="text"],
+.register-box input[type="password"],
+.register-box input[type="email"] {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #fdfefe;
+    padding: 14px 10px;
+    width: 300px;
+    outline: none;
+    border-radius: 24px;
+    transition: 0.25s;
+    font-size: 18px;
+    color: #fdfefe;
+}
+
+.register-box input[type="submit"],
+.register-box input[type="reset"] {
+    border: 0;
+    background: none;
+    margin: 10px;
+    text-align: center;
+    border: 4px solid;
+    border-color: rgba(51, 51, 51, 1) rgba(255, 255, 255, 1) rgba(51, 51, 51, 1) rgba(255, 255, 255, 1);
+    padding: 14px 0px;
+    width: 120px;
+    outline: none;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 40px;
+    transition: 0.5s;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.register-box input[type="submit"]:hover {
+    background: none;
+    color: #fdfefe;
+    border-color: rgba(51, 51, 51, 1) #48c9b0 rgba(51, 51, 51, 1) #48c9b0;
+}
+
+.register-box input[type="reset"]:hover {
+    background: none;
+    color: #fdfefe;
+    border-color: rgba(51, 51, 51, 1) rgba(255, 0, 0, 1) rgba(51, 51, 51, 1) rgba(255, 0, 0, 1);
+}
+
+.t {
+    color: #fdfefe;
+}
+
+.link {
+    color: cornflowerblue;
+    text-decoration: #fdfefe;
+}
+
+.link:hover {
+    color: #fdfefe;
+}
+
+.slt-r {
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid white;
+    padding: 14px 10px;
+    border-radius: 24px;
+    transition: 0.25s;
+    font-size: 18px;
+    color: white;
+    appearance: none;
+    width: 300px;
+}
+
+.slt-op-r {
+    text-align: center;
+    border-radius: 100px;
+    position: relative;
+    font-size: 18px;
+    color: white;
+    background-color: #212f3c;
+    outline: none;
+}
+
+.space {
+    margin: 10%;
+}
+
+.b-vox {
+    padding-bottom: 10%;
+}
+
+@media only screen and (max-width: 800px) {
+    .register-box h1 {
+        color: rgba(255, 255, 255, 1);
+        font-size: 28px;
+    }
+
+    .divider2 {
+        border: 1px solid #fdfefe;
+        margin: 5%;
+        margin-bottom: 10%;
+    }
+
+    .register-box {
+        width: 70%;
+        padding: 40px;
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        background: none;
+        border-radius: 20px 20px 20px 20px;
+        border: 1px solid #fdfefe;
+        margin-bottom: 10%;
+    }
+
+    .register-box input[type="text"],
+    .register-box input[type="password"],
+    .register-box input[type="email"] {
+        border: 0;
+        background: none;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        border: 2px solid #fdfefe;
+        padding: 8px 10px;
+        width: 200px;
+        outline: none;
+        border-radius: 24px;
+        transition: 0.25s;
+        font-size: 18px;
+        color: #fdfefe;
+        height: 90%;
+    }
+
+    .register-box input[type="submit"],
+    .register-box input[type="reset"] {
+        border: 0;
+        background: none;
+        margin: 10px;
+        text-align: center;
+        border: 4px solid;
+        border-color: rgba(51, 51, 51, 1) rgba(255, 255, 255, 1) rgba(51, 51, 51, 1) rgba(255, 255, 255, 1);
+        padding: 8px 0px;
+        width: 100px;
+        outline: none;
+        color: rgba(255, 255, 255, 1);
+        border-radius: 40px;
+        transition: 0.5s;
+        font-size: 18px;
+        cursor: pointer;
+    }
+
+    .register-box input[type="submit"]:hover {
+        background: none;
+        color: #fdfefe;
+        border-color: rgba(51, 51, 51, 1) #48c9b0 rgba(51, 51, 51, 1) #48c9b0;
+    }
+
+    .register-box input[type="reset"]:hover {
+        background: none;
+        color: #fdfefe;
+        border-color: rgba(51, 51, 51, 1) rgba(255, 0, 0, 1) rgba(51, 51, 51, 1) rgba(255, 0, 0, 1);
+    }
+
+    .t {
+        color: #fdfefe;
+    }
+
+    .link {
+        color: cornflowerblue;
+        text-decoration: #fdfefe;
+    }
+
+    .link:hover {
+        color: #fdfefe;
+    }
+
+    .slt-r {
+        border: 0;
+        background: none;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        border: 2px solid white;
+        padding: 8px 0px;
+        border-radius: 24px;
+        transition: 0.25s;
+        font-size: 18px;
+        color: white;
+        appearance: none;
+        width: 200px;
+    }
+
+    .slt-op-r {
+        text-align: center;
+        border-radius: 100px;
+        position: relative;
+        font-size: 18px;
+        color: white;
+        background-color: #212f3c;
+        outline: none;
+    }
+}

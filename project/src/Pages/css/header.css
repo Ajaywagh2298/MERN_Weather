@@ -1,0 +1,41 @@
+.navbar-box2 {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 2%;
+    border-radius: 50px;
+    padding-left: 2%;
+}
+
+.icon {
+    color: #8fdfff;
+    font-size: 60px;
+}
+
+.logo {
+    font-size: 32px;
+    color: white;
+    font-family: "Droid Sans Mono";
+    text-decoration: none;
+    pointer-events: none;
+}
+
+.admin ul li {
+    float: right;
+    flex: content;
+    padding-left: 10%;
+}
+
+.menu {
+    padding-left: 10%;
+}
+
+.logo2 {
+    font-size: 18px;
+    color: white;
+    font-family: "Droid Sans Mono";
+    text-decoration: none;
+}
+
+.colr {
+    color: white;
+}

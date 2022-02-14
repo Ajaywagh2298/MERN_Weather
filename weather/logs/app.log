@@ -1,0 +1,625 @@
+{"level":"info","message":"server started on port = [9000]","timestamp":"2022-02-09T20:11:11.325Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:11:15.731Z"}
+{"level":"info","message":"server started on port = [9000]","timestamp":"2022-02-09T20:14:26.298Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:14:28.180Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-09T20:14:36.744Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:14:37.159Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-09T20:17:24.490Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:17:26.333Z"}
+{"level":"info","message":"server started on port = [16381]","timestamp":"2022-02-09T20:17:48.386Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:17:48.636Z"}
+{"level":"info","message":"server started on port = [16381]","timestamp":"2022-02-09T20:19:04.297Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:19:07.208Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-09T20:19:29.366Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:19:30.625Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-09T20:21:43.931Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:21:48.351Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-09T20:23:25.889Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:23:27.775Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-09T20:31:46.469Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:31:46.509Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-09T20:34:46.402Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-09T20:34:46.429Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T09:15:41.773Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T09:15:41.813Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T09:36:47.703Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T09:36:50.490Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T09:47:35.862Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T09:47:37.065Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T09:52:23.334Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T09:52:34.845Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T09:58:57.679Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T09:59:03.353Z"}
+{"code":409,"level":"error","message":"user already registered, please login.","name":"conflict","timestamp":"2022-02-10T09:59:03.492Z"}
+{"code":409,"level":"info","message":"user already registered, please login.","name":"conflict","timestamp":"2022-02-10T09:59:03.492Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:00:47.523Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:00:47.523Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:00:47.523Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:00:47.523Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:00:47.523Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:00:47.523Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T10:03:23.284Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:03:25.468Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:03:25.468Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T10:03:30.076Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T10:03:46.875Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T10:03:48.916Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:03:51.459Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:03:51.459Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T10:04:01.779Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T10:04:03.366Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:04:04.951Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T10:08:40.956Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T10:08:47.280Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:08:49.455Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-10T10:08:49.455Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T10:17:31.515Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T10:17:33.814Z"}
+{"level":"error","timestamp":"2022-02-10T10:17:34.595Z"}
+{"level":"info","timestamp":"2022-02-10T10:17:34.595Z"}
+{"level":"error","timestamp":"2022-02-10T10:17:37.992Z"}
+{"level":"info","timestamp":"2022-02-10T10:17:37.992Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T10:18:03.158Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T10:18:09.628Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T11:11:44.684Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T11:11:45.138Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T11:22:35.252Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T11:22:35.756Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T12:05:22.570Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T12:05:22.710Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T12:33:10.957Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T12:33:12.659Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T17:57:30.480Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T17:57:34.253Z"}
+{"code":500,"level":"error","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-10T17:57:37.519Z"}
+{"code":500,"level":"info","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-10T17:57:37.519Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T17:57:58.448Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T17:57:59.655Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T19:08:53.481Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T19:09:02.433Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T19:09:13.673Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T19:09:36.509Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T19:09:43.852Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T19:10:06.845Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T19:10:43.000Z"}
+{"code":500,"level":"error","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-10T19:10:50.582Z"}
+{"code":500,"level":"info","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-10T19:10:50.582Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T19:11:13.499Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T19:11:19.790Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T19:11:33.886Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T19:13:01.838Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T19:13:27.242Z"}
+{"code":400,"level":"error","message":"missing firstname","name":"badRequest","timestamp":"2022-02-10T20:25:44.812Z"}
+{"code":400,"level":"info","message":"missing firstname","name":"badRequest","timestamp":"2022-02-10T20:25:44.812Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-10T20:25:44.812Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-10T20:25:44.812Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T20:49:16.424Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T20:49:18.441Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:02:17.322Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:02:18.758Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:04:44.000Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:04:46.049Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:06:32.523Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:06:33.833Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:07:31.643Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:07:31.980Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:10:36.261Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:10:38.456Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:20:25.420Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:20:25.420Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:20:25.420Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:20:25.420Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:22:30.763Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:22:31.325Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:22:48.418Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:22:48.724Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:23:12.531Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:23:12.531Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:23:39.967Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:23:41.932Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:24:11.657Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:24:11.657Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:24:33.791Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:24:35.115Z"}
+{"code":400,"level":"error","message":"missing firstname","name":"badRequest","timestamp":"2022-02-10T21:25:32.119Z"}
+{"code":400,"level":"info","message":"missing firstname","name":"badRequest","timestamp":"2022-02-10T21:25:32.119Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-10T21:27:55.325Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-10T21:27:57.401Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:35:13.237Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-10T21:35:13.237Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T07:52:23.856Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T07:52:34.750Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T09:09:03.360Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T09:09:08.968Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T09:10:41.095Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T09:10:41.587Z"}
+{"code":500,"level":"error","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-11T09:11:22.951Z"}
+{"code":500,"level":"info","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-11T09:11:22.951Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T09:11:52.821Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T09:11:59.898Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T09:12:19.050Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T09:12:20.186Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T09:12:46.245Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T09:12:47.584Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T09:13:31.173Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T09:13:36.819Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T12:50:06.571Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-11T12:57:52.740Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-11T12:57:52.740Z"}
+{"code":500,"level":"error","message":"user registration failed","name":"internalError","timestamp":"2022-02-11T13:02:46.622Z"}
+{"code":500,"level":"info","message":"user registration failed","name":"internalError","timestamp":"2022-02-11T13:02:46.622Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-11T14:29:22.701Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-11T14:29:23.386Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-11T16:10:04.938Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-11T16:10:04.938Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T16:13:25.930Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T16:13:25.930Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T16:13:25.930Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T16:13:25.930Z"}
+{"code":401,"level":"error","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T16:13:25.930Z"}
+{"code":401,"level":"info","message":"invalid username or password","name":"unauthorized","timestamp":"2022-02-11T16:13:25.930Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-12T07:54:25.709Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-12T07:54:27.873Z"}
+{"code":401,"level":"error","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T08:54:57.164Z"}
+{"code":401,"level":"info","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T08:54:57.164Z"}
+{"code":401,"level":"error","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T08:54:57.164Z"}
+{"code":401,"level":"info","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T08:54:57.164Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-12T09:04:22.469Z"}
+{"level":"error","message":"Could not connect to the database. Exiting now...","timestamp":"2022-02-12T09:04:33.167Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-12T09:04:40.177Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-12T09:04:45.787Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-12T09:04:50.204Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-12T09:04:56.586Z"}
+{"level":"info","message":"login successful for user user0","timestamp":"2022-02-12T09:04:56.828Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-12T09:05:18.673Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-12T09:05:18.970Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:05:25.960Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:06:24.479Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:10:37.681Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:12:18.528Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:16:18.262Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:16:25.653Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:16:26.202Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:16:27.801Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:48:26.797Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T09:59:18.589Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T10:00:33.091Z"}
+{"level":"info","message":"login successful for user: admin0","timestamp":"2022-02-12T10:00:53.164Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":401,"level":"error","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T10:14:49.338Z"}
+{"code":401,"level":"info","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T10:14:49.338Z"}
+{"code":401,"level":"error","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T10:14:49.338Z"}
+{"code":401,"level":"info","message":"user not registered","name":"unauthorized","timestamp":"2022-02-12T10:14:49.338Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T10:15:16.949Z"}
+{"level":"info","message":"login successful for user: admin0","timestamp":"2022-02-12T10:17:16.681Z"}
+{"code":500,"level":"error","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-12T12:31:40.541Z"}
+{"code":500,"level":"info","message":"failed to fetch weather list","name":"internalError","timestamp":"2022-02-12T12:31:40.541Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-12T10:10:54.807Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T20:10:16.633Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-12T20:10:46.672Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:46:01.312Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:46:07.581Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T15:46:55.644Z"}
+{"level":"info","message":"login successful for user: admin0","timestamp":"2022-02-13T15:48:39.364Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:52:15.152Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:52:21.434Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:55:33.781Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:55:41.035Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:57:20.318Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:57:21.591Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:58:31.988Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:58:35.028Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:58:37.960Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:58:38.309Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:59:01.069Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:59:01.462Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:59:23.658Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:59:25.045Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T15:59:42.243Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T15:59:46.987Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:01:39.045Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:01:40.301Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:01:44.694Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:01:45.186Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:04:32.582Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:04:33.078Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:05:44.296Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:05:55.860Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:06:03.644Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:06:04.173Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:10:39.162Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:10:39.728Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:11:07.171Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:11:18.678Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:12:15.942Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:12:17.494Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:13:42.562Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:13:43.856Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:13:55.633Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:13:58.225Z"}
+{"level":"info","message":"login successful for user: admin0","timestamp":"2022-02-13T16:14:41.416Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T16:16:01.946Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T16:20:20.395Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T16:21:43.482Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T16:21:44.799Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T16:25:48.497Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T16:36:05.124Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: admin0","timestamp":"2022-02-13T16:37:16.436Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T16:38:10.409Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:39:32.625Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:40:36.591Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:42:07.311Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:42:41.038Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:43:35.738Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T16:21:43.947Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T17:44:05.905Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T17:44:11.320Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:44:13.457Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:46:13.625Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T17:48:34.517Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T18:03:36.145Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T18:03:39.824Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:03:40.642Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:03:40.642Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:03:53.279Z"}
+{"level":"info","message":"login successful for user: admin0","timestamp":"2022-02-13T18:04:57.105Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:03:40.642Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:03:40.642Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:03:40.642Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:03:40.642Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T18:08:34.755Z"}
+{"level":"error","message":"Could not connect to the database. Exiting now...","timestamp":"2022-02-13T18:08:38.181Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T18:11:22.089Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T18:11:23.283Z"}
+{"level":"info","message":"login successful for user: admin0","timestamp":"2022-02-13T18:11:34.841Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:12:04.561Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:15:06.645Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"user not registered","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"user not registered","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:17:56.572Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:47:36.833Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:49:57.461Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:51:05.883Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T18:52:04.458Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:00:39.112Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:02:11.871Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":400,"level":"error","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"code":400,"level":"info","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"code":400,"level":"error","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"code":400,"level":"info","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"code":400,"level":"error","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"code":400,"level":"info","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"code":400,"level":"error","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"code":400,"level":"info","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:04:24.161Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:04:36.455Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:05:58.230Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:08:24.599Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:09:59.082Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:21:19.967Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T18:12:46.886Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-13T19:22:05.178Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-13T19:22:05.562Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T19:22:09.809Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T19:22:09.809Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:22:21.930Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T19:22:09.809Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-13T19:22:09.809Z"}
+{"code":400,"level":"error","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:23:12.697Z"}
+{"code":400,"level":"info","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:23:12.697Z"}
+{"code":400,"level":"error","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:23:12.697Z"}
+{"code":400,"level":"info","message":"invalid user type","name":"badRequest","timestamp":"2022-02-13T19:23:12.697Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-13T19:23:13.009Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T13:22:37.907Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T13:22:39.305Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T13:31:30.572Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T13:31:31.331Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T13:32:23.375Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T13:32:23.375Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:31:29.062Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:31:29.457Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:34:26.799Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:34:27.937Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:39:44.783Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:40:27.185Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:40:32.791Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:41:27.885Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:41:35.035Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:41:56.698Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:41:57.947Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:42:21.015Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:42:22.245Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:42:26.788Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:42:32.072Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:44:26.588Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:44:27.703Z"}
+{"level":"info","message":"server started on port = [8181]","timestamp":"2022-02-14T14:44:42.436Z"}
+{"level":"info","message":"Successfully connected to the database","timestamp":"2022-02-14T14:44:43.679Z"}
+{"code":400,"level":"error","message":"missing username or password","name":"badRequest","timestamp":"2022-02-14T14:45:21.918Z"}
+{"code":400,"level":"info","message":"missing username or password","name":"badRequest","timestamp":"2022-02-14T14:45:21.918Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T14:46:00.310Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T14:47:10.190Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T14:47:30.795Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T14:47:55.913Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:09:30.655Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:14:08.105Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:27:40.694Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:29:21.273Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:34:37.819Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:37:46.052Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:40:14.960Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:45:37.448Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"error","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"code":401,"level":"info","message":"Authorization token not present","name":"unauthorized","timestamp":"2022-02-14T14:47:19.348Z"}
+{"level":"info","message":"login successful for user: user0","timestamp":"2022-02-14T16:56:23.766Z"}
